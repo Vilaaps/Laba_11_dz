@@ -44,7 +44,7 @@ fun handleState(state: CharacterState) {
         is CharacterState.Death -> {
             println("Мерлин с унижением падает на колени...")
             println("Причина поражения: ${state.reason}")
-            println("Магический свет угасает в его глазах, и он проваливается в темноту\n")
+            println("Магический свет угасает в его глазах и он проваливается в темноту\n")
         }
     }
 }
