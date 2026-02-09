@@ -1,4 +1,5 @@
 ﻿package gameCharacter
+
 class GameCharacter(
     val name: String
 ) {
