@@ -1,4 +1,3 @@
-﻿// Файл: Main.kt
 package gameCharacter
 
 fun main() {
