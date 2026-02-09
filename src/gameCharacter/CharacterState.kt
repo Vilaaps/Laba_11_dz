@@ -1,4 +1,5 @@
 ﻿package gameCharacter
+
 sealed class CharacterState {
     object Inaction : CharacterState()
     object Running : CharacterState()
